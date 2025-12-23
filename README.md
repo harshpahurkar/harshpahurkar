@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm **Harsh Pahurkar**, a recent Computer Programming & Analysis graduate from Seneca Polytechnic (Dec 2025) with 2 co-op terms under my belt. Building full-stack applications and exploring cloud-native architectures.
+I'm **Harsh Pahurkar**, a recent Computer Programming & Analysis graduate from Seneca Polytechnic (Dec 2025) with real world work experience in Software and Automation Development with Govt. of Ontario. Building full-stack applications and exploring cloud-native architectures.
 
 **What I'm focused on:**
 - 🎯 Full-stack development with modern JavaScript frameworks
@@ -58,8 +58,7 @@ I'm **Harsh Pahurkar**, a recent Computer Programming & Analysis graduate from S
 ## Education & Experience
 
 - 🎓 **Ontario College Advanced Diploma** — Computer Programming & Analysis, Seneca Polytechnic (Dec 2025)
-- 🏆 **Graduated with Honours** — 3.6 GPA | President's Honour List (2 terms with 4.0 GPA)
-- 💼 **2 Co-op Terms Completed** — Winter 2024 & Summer 2024
+- 💼 **Software/Automation Developer - Ministry of Children, Community and Social Services** — Winter 2024 & Summer 2024
 - 📚 **Key Coursework**: Data Structures & Algorithms, Software Design, Cloud Computing, Mobile App Development, Web Applications, Database Systems, Software Testing, UNIX Systems Programming
 
 ---
@@ -72,16 +71,11 @@ I'm **Harsh Pahurkar**, a recent Computer Programming & Analysis graduate from S
 
 ---
 
-<details>
-<summary>📊 GitHub Stats (click to expand)</summary>
-
-<br>
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpahurkar&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpahurkar&layout=compact&theme=dark&hide_border=true)
-
-</details>
 
 ---
 
