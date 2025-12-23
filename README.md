@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/harshpahurkar?style=flat-square&color=blueviolet&logo=github&logoColor=white" alt="GitHub followers" />
-</p>
-
-<p align="center">
     Recent Computer Programming & Analysis Graduate @ Seneca Polytechnic
 </p>
 
