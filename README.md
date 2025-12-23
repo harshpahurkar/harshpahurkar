@@ -1,6 +1,35 @@
-## Hey there 👋
+<h1 align="center">
+  Hey there, I'm <a href="https://github.com/harshpahurkar">Harsh Pahurkar</a> 👋
+</h1>
 
-I'm **Harsh Pahurkar**, a recent Computer Programming & Analysis graduate from Seneca Polytechnic (Dec 2025) with real world work experience in Software and Automation Development with Govt. of Ontario. Building full-stack applications and exploring cloud-native architectures.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/harshpahurkar?style=flat-square&color=blueviolet&logo=github&logoColor=white" alt="GitHub followers" />
+</p>
+
+<p align="center">
+    Recent Computer Programming & Analysis Graduate @ Seneca Polytechnic
+</p>
+
+<p align="center">
+  <a href="mailto:harsh.pahurkar@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/harshpahurkar" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/harshpahurkar" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://harshpahurkar.dev" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<hr />
+
+## 🚀 About Me
+
+Building full-stack applications and exploring cloud-native architectures with **2 co-op terms** completed. Recent graduate (Dec 2025) with **3.6 GPA** and **President's Honour List** recognition.
 
 **What I'm focused on:**
 - 🎯 Full-stack development with modern JavaScript frameworks
@@ -8,9 +37,9 @@ I'm **Harsh Pahurkar**, a recent Computer Programming & Analysis graduate from S
 - 💡 Mobile app development for Android
 - 🔧 Software testing and quality automation
 
----
+<hr />
 
-## Featured Projects
+## 💼 Featured Projects
 
 | Project | What it does | Tech | Links |
 |---------|-------------|------|-------|
@@ -19,9 +48,9 @@ I'm **Harsh Pahurkar**, a recent Computer Programming & Analysis graduate from S
 | **Virtual Pet Simulator** | Interactive CLI pet simulation with feeding, playing, and sleep mechanics. Tracks pet stats (weight, hunger, age) with color-coded terminal UI. | `Python` `Colorama` | [Repo](https://github.com/harshpahurkar/Virtual-Pet) |
 | **Resident Evil 4 Fan Site** | Responsive fan website showcasing game content with modern HTML/CSS design and interactive elements. | `HTML5` `CSS3` `JavaScript` | [Repo](https://github.com/harshpahurkar/Resident-Evil-4-Fan-Website) |
 
----
+<hr />
 
-## Tech Stack
+## 💻 Tech Stack
 
 **Languages**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -44,39 +73,36 @@ I'm **Harsh Pahurkar**, a recent Computer Programming & Analysis graduate from S
 **DevOps & Tools**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
+<hr />
 
-## Now
+## 🌱 Currently Working On
 
-**Currently working on:**
 - 🔨 Building production-ready portfolio projects showcasing full-stack capabilities
 - 📚 Deepening AWS cloud architecture and containerization with Docker/Kubernetes
 - 🌱 Contributing to open-source projects and staying current with industry best practices
 
----
+<hr />
 
-## Education & Experience
+## 🎓 Education & Experience
 
 - 🎓 **Ontario College Advanced Diploma** — Computer Programming & Analysis, Seneca Polytechnic (Dec 2025)
-- 💼 **Software/Automation Developer - Ministry of Children, Community and Social Services** — Winter 2024 & Summer 2024
+- 🏆 **Graduated with Honours** — 3.6 GPA | President's Honour List (2 terms with 4.0 GPA)
+- 💼 **2 Co-op Terms Completed** — Winter 2024 & Summer 2024
 - 📚 **Key Coursework**: Data Structures & Algorithms, Software Design, Cloud Computing, Mobile App Development, Web Applications, Database Systems, Software Testing, UNIX Systems Programming
 
----
+<hr />
 
-## Get in Touch
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshpahurkar&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com/?user=harshpahurkar&theme=radical&hide_border=true" alt="GitHub Streak">
+</div>
 
-📧 Email: [harsh.pahurkar@example.com](mailto:harsh.pahurkar@example.com)  
-💼 LinkedIn: [linkedin.com/in/harshpahurkar](https://linkedin.com/in/harshpahurkar)  
-🌐 Portfolio: [harshpahurkar.dev](https://harshpahurkar.dev)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpahurkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</div>
 
----
+<hr />
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpahurkar&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpahurkar&layout=compact&theme=dark&hide_border=true)
-
----
-
-*Building reliable systems one commit at a time. Always learning, sometimes debugging, eventually shipping.*
+<p align="center">
+  <i>Building reliable systems one commit at a time. Always learning, sometimes debugging, eventually shipping.</i>
+</p>
