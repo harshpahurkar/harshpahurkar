@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-Building full-stack applications and exploring cloud-native architectures with **2 co-op terms** completed. Recent graduate (Dec 2025) with **3.6 GPA** and **President's Honour List** recognition.
+Building full-stack applications and exploring cloud-native architectures real world work experience as **Software/Automation Developer - Govt. of Ontario (MCCSS)** completed. Recent graduate with **President's Honour List** recognition.
 
 **What I'm focused on:**
 - 🎯 Full-stack development with modern JavaScript frameworks
@@ -83,7 +83,7 @@ Building full-stack applications and exploring cloud-native architectures with *
 
 - 🎓 **Ontario College Advanced Diploma** — Computer Programming & Analysis, Seneca Polytechnic (Dec 2025)
 - 🏆 **Graduated with Honours** — 3.6 GPA | President's Honour List (2 terms with 4.0 GPA)
-- 💼 **2 Co-op Terms Completed** — Winter 2024 & Summer 2024
+- 💼 **Software/Automation Developer - Govt. of Ontario** — Winter 2024 & Summer 2024
 - 📚 **Key Coursework**: Data Structures & Algorithms, Software Design, Cloud Computing, Mobile App Development, Web Applications, Database Systems, Software Testing, UNIX Systems Programming
 
 <hr />
