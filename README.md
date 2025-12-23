@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:harshpahurkar33@.gmail.com">
+  <a href="mailto:harsh.pahurkar@example.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/harshpahurkar" target="_blank">
@@ -25,13 +25,13 @@
 
 ## 🚀 About Me
 
-Building full-stack applications and exploring cloud-native architectures real world work experience as **Software/Automation Developer - Govt. of Ontario (MCCSS)** completed. Recent graduate with **President's Honour List** recognition.
+Recent Computer Programming & Analysis graduate (Dec 2025) with **8 months of professional experience** as an **Automation Developer** at the **Government of Ontario - Ministry of Children, Community and Social Services**. Specialized in test automation, Agile/DevOps workflows, and building scalable solutions that improve services for Ontarians.
 
 **What I'm focused on:**
-- 🎯 Full-stack development with modern JavaScript frameworks
-- 🚀 Cloud computing and scalable system design
-- 💡 Mobile app development for Android
-- 🔧 Software testing and quality automation
+- 🎯 Test automation and quality assurance engineering
+- 🚀 Full-stack development with modern frameworks (Java, JavaScript, React)
+- 💡 Cloud computing and DevOps workflows (Azure DevOps, CI/CD)
+- 🔧 Agile methodologies and collaborative software development
 
 <hr />
 
@@ -67,7 +67,7 @@ Building full-stack applications and exploring cloud-native architectures real w
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **DevOps & Tools**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 <hr />
 
@@ -81,10 +81,25 @@ Building full-stack applications and exploring cloud-native architectures real w
 
 ## 🎓 Education & Experience
 
-- 🎓 **Ontario College Advanced Diploma** — Computer Programming & Analysis, Seneca Polytechnic (Dec 2025)
-- 🏆 **Graduated with Honours** — 3.6 GPA | President's Honour List (2 terms with 4.0 GPA)
-- 💼 **Software/Automation Developer - Govt. of Ontario** — Winter 2024 & Summer 2024
-- 📚 **Key Coursework**: Data Structures & Algorithms, Software Design, Cloud Computing, Mobile App Development, Web Applications, Database Systems, Software Testing, UNIX Systems Programming
+### 💼 Work Experience
+
+**Automation Developer** | *Government of Ontario - Ministry of Children, Community and Social Services*  
+*Jan 2024 - Aug 2024 (8 months) | Toronto, ON (Hybrid)*
+
+- Developed and executed automated test scripts using **Selenium WebDriver** and **Java** to enhance continuous delivery workflows
+- Collaborated with cross-functional teams in **Agile/DevOps** environment, participating in daily stand-ups and sprint planning
+- Analyzed user stories, executed functional/non-functional/regression test cases, and performed root cause analysis on defects
+- Created database queries using **SQL** to validate data integrity and log defects in **Azure DevOps**
+- Contributed to building products and services aimed at improving the lives of Ontarians through modernized digital pathways
+- Worked with technologies: Java, JavaScript, Selenium, SQL, HTML, VB-Script, Azure DevOps, MS Office Suite
+
+### 🎓 Education
+
+**Ontario College Advanced Diploma** — Computer Programming & Analysis  
+*Seneca Polytechnic* | Dec 2025
+
+- 🏆 **Graduated with Honours**
+- 📚 **Key Coursework**: Data Structures & Algorithms, Software Analysis & Design, Cloud Computing (AWS), Mobile App Development (Android), Web Applications & Services, Database Systems, Software Testing, UNIX Systems Programming, Computer Vision
 
 <hr />
 
