@@ -105,7 +105,6 @@ Recent Computer Programming & Analysis graduate (Dec 2025) with **8 months of pr
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshpahurkar&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=harshpahurkar&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
 
 <div align="center">
