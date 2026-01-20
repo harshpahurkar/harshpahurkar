@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Recent Computer Programming & Analysis Graduate @ Seneca Polytechnic
+    Computer Programming & Analysis Graduate @ Seneca Polytechnic
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-Recent Computer Programming & Analysis graduate (Dec 2025) with **8 months of professional experience** as an **Automation Developer** at the **Government of Ontario - Ministry of Children, Community and Social Services**. Specialized in test automation, Agile/DevOps workflows, and building scalable solutions that improve services for Ontarians.
+Computer Programming & Analysis graduate (Dec 2025) with **8 months of professional experience** as an **Automation Developer** at the **Government of Ontario - Ministry of Children, Community and Social Services**. Specialized in test automation, Agile/DevOps workflows, and building scalable solutions that improve services for Ontarians.
 
 **What I'm focused on:**
 - 🎯 Test automation and quality assurance engineering
