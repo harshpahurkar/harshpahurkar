@@ -153,10 +153,6 @@ const harsh = {
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshpahurkar&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshpahurkar&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://streak-stats.demolab.com/?user=harshpahurkar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170" />
