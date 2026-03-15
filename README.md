@@ -14,17 +14,29 @@
   <a href="https://harshpahurkar.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshpahurkar&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## About Me
 
 Backend and fullstack developer who builds production-grade microservices, REST APIs, and cloud-native applications. I focus on systems that handle real-world complexity — billing platforms with payment processing, AWS-deployed services with CI/CD, and high-performance search engines backed by Redis.
 
-- 🔧 &nbsp;**Languages:** Python, JavaScript/TypeScript, C++, C, Bash, SQL
-- ☁️ &nbsp;**Cloud & Infra:** AWS (ECS, S3, DynamoDB, Cognito, EC2), Docker, GitHub Actions
-- 🗄️ &nbsp;**Data:** PostgreSQL, Redis, DynamoDB, MongoDB
-- 🏗️ &nbsp;**Frameworks:** FastAPI, Node.js, Express, React
-- 💼 &nbsp;**Experience:** Software Developer @ Government of Ontario &nbsp;·&nbsp; CPA Honours Graduate @ Seneca Polytechnic (Dec 2025)
+```js
+const harsh = {
+    role: "Backend / Fullstack Developer",
+    languages: ["Python", "JavaScript", "TypeScript", "C++", "C", "Bash", "SQL"],
+    backend: ["FastAPI", "Node.js", "Express", "REST APIs", "Stripe"],
+    cloud: ["AWS ECS", "S3", "DynamoDB", "Cognito", "EC2", "Docker", "GitHub Actions"],
+    databases: ["PostgreSQL", "Redis", "DynamoDB", "MongoDB"],
+    frontend: ["React", "HTML5", "CSS3"],
+    experience: "Software Developer @ Government of Ontario",
+    education: "CPA Honours @ Seneca Polytechnic (Dec 2025)",
+    currentFocus: "Building scalable cloud-native microservices",
+};
+```
 
 ---
 
@@ -140,6 +152,10 @@ Backend and fullstack developer who builds production-grade microservices, REST 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshpahurkar&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshpahurkar&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
