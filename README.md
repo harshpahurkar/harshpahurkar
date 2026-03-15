@@ -1,118 +1,157 @@
-<h1 align="center">
-  Hey there, I'm <a href="https://github.com/harshpahurkar">Harsh Pahurkar</a> 👋
-</h1>
+<div align="center">
+  <a href="https://github.com/harshpahurkar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Harsh+Pahurkar;Backend+%2F+Fullstack+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-    Computer Programming & Analysis Graduate @ Seneca Polytechnic
+  <em>Microservices &bull; REST APIs &bull; Cloud-Native Systems &bull; Distributed Architecture</em>
 </p>
 
 <p align="center">
-  <a href="mailto:harshpahurkar33@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/harshpahurkar" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/harshpahurkar" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://harshpahurkar.dev" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/harshpahurkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/harshpahurkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://harshpahurkar.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<hr />
+---
 
-## 🚀 About Me
+## About Me
 
-Computer Programming & Analysis graduate (Dec 2025) with **8 months of professional experience** as an **Automation Developer** at the **Government of Ontario - Ministry of Children, Community and Social Services**. Specialized in test automation, Agile/DevOps workflows, and building scalable solutions that improve services for Ontarians.
+Backend and fullstack developer who builds production-grade microservices, REST APIs, and cloud-native applications. I focus on systems that handle real-world complexity — billing platforms with payment processing, AWS-deployed services with CI/CD, and high-performance search engines backed by Redis.
 
-**What I'm focused on:**
-- 🎯 Test automation and quality assurance engineering
-- 🚀 Full-stack development with modern frameworks (Java, JavaScript, React)
-- 💡 Cloud computing and DevOps workflows (Azure DevOps, CI/CD)
-- 🔧 Agile methodologies and collaborative software development
+- 🔧 &nbsp;**Languages:** Python, JavaScript/TypeScript, C++, C, Bash, SQL
+- ☁️ &nbsp;**Cloud & Infra:** AWS (ECS, S3, DynamoDB, Cognito, EC2), Docker, GitHub Actions
+- 🗄️ &nbsp;**Data:** PostgreSQL, Redis, DynamoDB, MongoDB
+- 🏗️ &nbsp;**Frameworks:** FastAPI, Node.js, Express, React
+- 💼 &nbsp;**Experience:** Software Developer @ Government of Ontario &nbsp;·&nbsp; CPA Honours Graduate @ Seneca Polytechnic (Dec 2025)
 
-<hr />
+---
 
-## 💼 Featured Projects
+## Featured Projects
 
-| Project | What it does | Tech | Links |
-|---------|-------------|------|-------|
-| **Image Classification Models** | Cat vs Dog classifier achieving 98% accuracy with transfer learning (ResNet50, VGG16). MNIST digit classifier reaching 99.2% accuracy using CNN. | `Python` `TensorFlow` `Keras` `OpenCV` | [Repo](https://github.com/harshpahurkar/Assignment-2-CVI620) |
-| **Invisibility Cloak** | Real-time video processing application using computer vision to create Harry Potter-style invisibility effect by masking specific color ranges. | `Python` `OpenCV` `CV2` | [Repo](https://github.com/harshpahurkar/Invisibility-Cloak-Real-Time-Video) |
-| **Virtual Pet Simulator** | Interactive CLI pet simulation with feeding, playing, and sleep mechanics. Tracks pet stats (weight, hunger, age) with color-coded terminal UI. | `Python` `Colorama` | [Repo](https://github.com/harshpahurkar/Virtual-Pet) |
-| **Resident Evil 4 Fan Site** | Responsive fan website showcasing game content with modern HTML/CSS design and interactive elements. | `HTML5` `CSS3` `JavaScript` | [Repo](https://github.com/harshpahurkar/Resident-Evil-4-Fan-Website) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/harshpahurkar/global-billing-service">💳 Global Billing Service</a></h3>
+      <p align="center">Production-grade billing microservice with <strong>Stripe integration</strong>, multi-currency support (USD/EUR/GBP/CAD), PDF invoice generation, and real-time webhook handling. Full <strong>CI/CD pipeline</strong>, Dockerized deployment, and <strong>27+ automated tests</strong>.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/harshpahurkar/fragments">☁️ Fragments Microservice</a></h3>
+      <p align="center">Cloud-native data fragments API deployed on <strong>AWS ECS</strong> with S3 object storage, DynamoDB metadata layer, and Cognito-based JWT auth. Supports content negotiation, on-the-fly format conversion, and full <strong>Docker + CI/CD</strong> workflow.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/harshpahurkar/redis-search-engine">🔍 Redis Search Engine</a></h3>
+      <p align="center">High-performance full-text search engine built on <strong>Redis sorted sets</strong> with TF-IDF relevance ranking. Indexes <strong>10,000+ documents</strong> with sub-millisecond query response, Boolean operators (AND/OR/NOT), and prefix matching.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/TF--IDF_Ranking-333333?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sorted_Sets-333333?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/harshpahurkar/Housify">🏠 Housify</a></h3>
+      <p align="center">AI-powered real estate platform with <strong>blockchain-based deed verification</strong>, dynamic pricing engine, and computer vision property analysis. Built as Seneca capstone with a cross-functional team.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-333333?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/harshpahurkar/fltk-text-editor">📝 FLTK Text Editor</a></h3>
+      <p align="center">Cross-platform GUI text editor built from scratch in <strong>C++17</strong> with the FLTK toolkit. Features find/replace with case sensitivity, real-time status bar, auto-save timer, and native file I/O. Built with <strong>CMake</strong>.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/FLTK-333333?style=flat-square" />
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/harshpahurkar/ShelfStack">📚 ShelfStack</a></h3>
+      <p align="center">Console-based library management system in <strong>C++11</strong> with polymorphic publication tracking, multi-field search, checkout/return workflows, and persistent file-backed data storage using STL containers.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/STL-333333?style=flat-square" />
+        <img src="https://img.shields.io/badge/OOP-333333?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<hr />
+---
 
-## 💻 Tech Stack
+## Tech Stack
 
-**Languages**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Backend & APIs**&ensp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-FF6F00?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
-**Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**&ensp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+**Databases**&ensp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Mobile & Game**  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+**Cloud & DevOps**&ensp;
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**AI/ML & Computer Vision**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+**Frontend**&ensp;
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Databases & Cloud**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**DevOps & Tools**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-<hr />
-
-## 🌱 Currently Working On
-
-- 🔨 Building production-ready portfolio projects showcasing full-stack capabilities
-- 📚 Deepening AWS cloud architecture and containerization with Docker/Kubernetes
-- 🌱 Contributing to open-source projects and staying current with industry best practices
-
-<hr />
-
-## 🎓 Education & Experience
-
-### 💼 Work Experience
-
-**Automation Developer** | *Government of Ontario - Ministry of Children, Community and Social Services*  
-*Jan 2024 - Aug 2024 (8 months) | Toronto, ON (Hybrid)*
-
-- Developed and executed automated test scripts using **Selenium WebDriver** and **Java** to enhance continuous delivery workflows
-- Collaborated with cross-functional teams in **Agile/DevOps** environment, participating in daily stand-ups and sprint planning
-- Analyzed user stories, executed functional/non-functional/regression test cases, and performed root cause analysis on defects
-- Created database queries using **SQL** to validate data integrity and log defects in **Azure DevOps**
-- Contributed to building products and services aimed at improving the lives of Ontarians through modernized digital pathways
-- Worked with technologies: Java, JavaScript, Selenium, SQL, HTML, VB-Script, Azure DevOps, MS Office Suite
-
-### 🎓 Education
-
-**Ontario College Advanced Diploma** — Computer Programming & Analysis  
-*Seneca Polytechnic* | Dec 2025
-
-- 🏆 **Graduated with Honours**
-- 📚 **Key Coursework**: Data Structures & Algorithms, Software Analysis & Design, Cloud Computing (AWS), Mobile App Development (Android), Web Applications & Services, Database Systems, Software Testing, UNIX Systems Programming, Computer Vision
-
-<hr />
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshpahurkar&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshpahurkar&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=harshpahurkar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpahurkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</div>
-
-<hr />
 
 <p align="center">
-  <i>Building reliable systems one commit at a time. Always learning, sometimes debugging, eventually shipping.</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpahurkar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <em>Open to backend and fullstack engineering opportunities — let's build something that scales.</em>
 </p>
