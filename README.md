@@ -154,12 +154,12 @@ const harsh = {
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshpahurkar&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshpahurkar&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" height="170" />
   <img src="https://streak-stats.demolab.com/?user=harshpahurkar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpahurkar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpahurkar&layout=compact&theme=github_dark&hide_border=true&hide=java,gradle&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
