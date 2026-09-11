@@ -1,158 +1,98 @@
 <div align="center">
   <a href="https://github.com/harshpahurkar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Harsh+Pahurkar;Backend+%2F+Fullstack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=640&height=80&lines=Harsh+Pahurkar;Backend+engineer" alt="Harsh Pahurkar, backend engineer" />
   </a>
 </div>
 
 <p align="center">
-  <em>Microservices &bull; REST APIs &bull; Cloud-Native Systems &bull; Distributed Architecture</em>
+  <em>Payments, AI infrastructure, and the reliability work that keeps both running.</em>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/harshpahurkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/harshpahurkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://harshpahurkar.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/harshpahurkar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshpahurkar&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=harshpahurkar&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## About Me
+Software Developer at the Government of Ontario. CPA Honours at Seneca Polytechnic, finishing December 2025. Based in Toronto.
 
-Backend and fullstack developer who builds production-grade microservices, REST APIs, and cloud-native applications. I focus on systems that handle real-world complexity — billing platforms with payment processing, AWS-deployed services with CI/CD, and high-performance search engines backed by Redis.
+I build backend services that have to be right when money, models, or uptime are involved: a billing service that talks to Stripe in 39 currencies, a checkpoint pipeline that catches hallucinated code before it merges, and a daemon that restarts build runners before anyone notices they stalled. Each repo below has a quickstart you can run from a fresh clone.
 
-```js
-const harsh = {
-    role: "Backend / Fullstack Developer",
-    languages: ["Python", "JavaScript", "TypeScript", "C++", "C", "Bash", "SQL"],
-    backend: ["FastAPI", "Node.js", "Express", "REST APIs", "Stripe"],
-    cloud: ["AWS ECS", "S3", "DynamoDB", "Cognito", "EC2", "Docker", "GitHub Actions"],
-    databases: ["PostgreSQL", "Redis", "DynamoDB", "MongoDB"],
-    frontend: ["React", "HTML5", "CSS3"],
-    experience: "Software Developer @ Government of Ontario",
-    education: "CPA Honours @ Seneca Polytechnic (Dec 2025)",
-    currentFocus: "Building scalable cloud-native microservices",
-};
-```
+## Work by industry
 
----
+### Fintech and payments
 
-## Featured Projects
+**[Global Billing Service](https://github.com/harshpahurkar/global-billing-service)**
+Subscription billing for SaaS products: create, upgrade, downgrade, cancel, and reactivate, with trials and end-of-period cancellation. Stripe Checkout and payment intents, refunds, and webhook verification. 39 currencies with per-currency minimum charges and zero-decimal handling, sequential invoice numbering with tax and discounts, API-key auth, structured logging. Ships with Docker, CI/CD, and an AWS ECS Fargate deployment. 27 tests at 92% coverage.
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Stripe` `Docker` `AWS ECS`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/harshpahurkar/global-billing-service">💳 Global Billing Service</a></h3>
-      <p align="center">Production-grade billing microservice with <strong>Stripe integration</strong>, multi-currency support (USD/EUR/GBP/CAD), PDF invoice generation, and real-time webhook handling. Full <strong>CI/CD pipeline</strong>, Dockerized deployment, and <strong>27+ automated tests</strong>.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/harshpahurkar/fragments">☁️ Fragments Microservice</a></h3>
-      <p align="center">Cloud-native data fragments API deployed on <strong>AWS ECS</strong> with S3 object storage, DynamoDB metadata layer, and Cognito-based JWT auth. Supports content negotiation, on-the-fly format conversion, and full <strong>Docker + CI/CD</strong> workflow.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/harshpahurkar/redis-search-engine">🔍 Redis Search Engine</a></h3>
-      <p align="center">High-performance full-text search engine built on <strong>Redis sorted sets</strong> with TF-IDF relevance ranking. Indexes <strong>10,000+ documents</strong> with sub-millisecond query response, Boolean operators (AND/OR/NOT), and prefix matching.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/TF--IDF_Ranking-333333?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sorted_Sets-333333?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/harshpahurkar/Housify">🏠 Housify</a></h3>
-      <p align="center">AI-powered real estate platform with <strong>blockchain-based deed verification</strong>, dynamic pricing engine, and computer vision property analysis. Built as Seneca capstone with a cross-functional team.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine_Learning-333333?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/harshpahurkar/fltk-text-editor">📝 FLTK Text Editor</a></h3>
-      <p align="center">Cross-platform GUI text editor built from scratch in <strong>C++17</strong> with the FLTK toolkit. Features find/replace with case sensitivity, real-time status bar, auto-save timer, and native file I/O. Built with <strong>CMake</strong>.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/FLTK-333333?style=flat-square" />
-        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/harshpahurkar/ShelfStack">📚 ShelfStack</a></h3>
-      <p align="center">Console-based library management system in <strong>C++11</strong> with polymorphic publication tracking, multi-field search, checkout/return workflows, and persistent file-backed data storage using STL containers.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/STL-333333?style=flat-square" />
-        <img src="https://img.shields.io/badge/OOP-333333?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+### AI engineering
 
----
+**[agent-trace-gate](https://github.com/harshpahurkar/agent-trace-gate)**
+Runtime checkpoints for code written by Claude Code and Cursor. Five stages per file: provenance, an import scan that checks unresolved names against PyPI and npm, a type check, a sandboxed smoke run, and a contract check on the return value. Every stage is an OpenTelemetry span you can open in Jaeger, and the whole thing runs as a git hook that blocks the merge. `agenttrace demo` seeds eight samples with planted bugs and exits nonzero unless each one is caught by the stage it was planted for.
+`Python` `Node` `OpenTelemetry` `Jaeger` `pyright` `tsc`
 
-## Tech Stack
+**[RAG Evaluation Platform](https://github.com/harshpahurkar/rag-evaluation-platform)**
+Retrieval backend built to answer one question: when the bot is wrong, which chunk won and why. Hand-rolled BM25 fused with pgvector search, a token-overlap reranker, a 54-case QA harness that catches retrieval regressions, and Langfuse traces on every query. Runs offline by default; add a key and a Postgres URL for production backends. Includes a React workbench for score tables and traces.
+`Python` `FastAPI` `pgvector` `Langfuse` `React`
 
-**Backend & APIs**&ensp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-FF6F00?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+**[Multi-Agent Research System](https://github.com/harshpahurkar/multi-agent-research-system)**
+A LangGraph pipeline (planner, researcher, evaluator, writer, finalizer) that produces sourced company briefs. The evaluator scores evidence quality and sends the researcher back for a broader pass below 0.70, so the writer never runs on junk. Async job API with per-node event streaming, fixture providers for offline runs, OpenAI and Tavily when configured.
+`Python` `LangGraph` `FastAPI` `Redis` `React`
 
-**Languages**&ensp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+**[MCP Task Server](https://github.com/harshpahurkar/mcp-task-server)**
+A read-only Model Context Protocol server so an agent can query local SQLite tasks and notes without any way to change them. Six tools with Zod schemas, a fixed query allowlist instead of string-built SQL, input guards on every call, a hand-rolled HTTP bridge with per-IP rate limiting, and a stdio contract test that exercises each tool end to end.
+`TypeScript` `Node 22` `SQLite` `Zod` `MCP`
 
-**Databases**&ensp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Infrastructure and reliability
 
-**Cloud & DevOps**&ensp;
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**[outage-watcher](https://github.com/harshpahurkar/outage-watcher)**
+A node health daemon for task workers and build runners, written after a fleet of GCE runners kept stalling under load. It classifies each target as missing, stalled, or bloated, recovers with the action you configure (re-run a command, systemctl, Restart-Service, or a GCE reset) under a rate limit that prevents restart loops, and debounces with hysteresis so one bad tick never kills anything. Prometheus metrics, alert rules, a Grafana dashboard, Slack webhooks, incidents in SQLite. Same package on Linux, Windows, and Google Cloud.
+`Python` `Prometheus` `Grafana` `systemd` `GCP`
 
-**Frontend**&ensp;
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Cloud content platforms
+
+**[Fragments](https://github.com/harshpahurkar/fragments)**
+Authentication-first content microservice for text, JSON, and images, scoped per user with Basic Auth or Cognito JWTs. Returns fragments in their native format or converted (Markdown to HTML, PNG to JPEG), with a storage layer that swaps between memory, DynamoDB, and S3. Deployed on AWS ECS with Docker and CI.
+`Node.js` `Express` `AWS S3` `DynamoDB` `Cognito` `Jest`
+
+### Search
+
+**[Redis Search Engine](https://github.com/harshpahurkar/redis-search-engine)**
+TF-IDF search on Redis sorted sets: tokenization and stop-word filtering at index time, IDF-weighted `ZUNIONSTORE` at query time, negative terms (`search -redis`), pipelined bulk loading from JSON, and a CLI with `index`, `search`, `remove`, and `stats`.
+`Python` `Redis`
+
+### Smaller tools
+
+[Force144Hz-v2](https://github.com/harshpahurkar/Force144Hz-v2) keeps Windows displays at 144Hz after a monitor reconnects. [fltk-text-editor](https://github.com/harshpahurkar/fltk-text-editor) is a cross-platform editor in C++17 with find and replace and an auto-save timer. [ShelfStack](https://github.com/harshpahurkar/ShelfStack) is a C++11 library system built around polymorphic publications and STL containers.
+
+## How I build
+
+Failure cases get a runnable demo rather than a sentence in the README: the trace gate refuses to pass unless its planted bugs are caught, and the watcher ships a leaking fake worker you can point it at and watch get restarted. The AI services run offline against fixture providers, so the tests need no API keys. Health endpoints separate "process alive" from "actually working", logs are structured, and anything that restarts something else is rate limited so it cannot loop.
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
 <p align="center">
-  <em>Open to backend and fullstack engineering opportunities — let's build something that scales.</em>
+  Open to backend roles in Toronto or remote. The fastest way to reach me is <a href="https://linkedin.com/in/harshpahurkar">LinkedIn</a>.
 </p>
