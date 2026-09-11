@@ -18,7 +18,7 @@
 
 **About me**
 
-- 💼 Software Developer at the Government of Ontario
+- 💼 Software Developer
 - 🎓 CPA Honours, Seneca Polytechnic (Dec 2025)
 - 🛠️ I build backend services for payments, AI systems, and infrastructure: Stripe billing in 39 currencies, an OpenTelemetry gate for AI-written code, a health daemon for build runners
 - 📍 Toronto · open to backend roles, Toronto or remote
