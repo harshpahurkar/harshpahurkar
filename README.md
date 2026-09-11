@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.harshpahurkar.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://linkedin.com/in/harshpahurkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://github.com/harshpahurkar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
@@ -94,5 +95,5 @@ Failure cases get a runnable demo rather than a sentence in the README: the trac
 ---
 
 <p align="center">
-  Open to backend roles in Toronto or remote. The fastest way to reach me is <a href="https://linkedin.com/in/harshpahurkar">LinkedIn</a>.
+  Open to backend roles in Toronto or remote. More at <a href="https://www.harshpahurkar.com">harshpahurkar.com</a>; the fastest way to reach me is <a href="https://linkedin.com/in/harshpahurkar">LinkedIn</a>.
 </p>
