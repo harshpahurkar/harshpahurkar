@@ -35,8 +35,8 @@
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/harshpahurkar"><img src="https://github-readme-stats.vercel.app/api?username=harshpahurkar&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true" alt="GitHub stats" /></a></td>
-    <td><a href="https://github.com/harshpahurkar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpahurkar&layout=compact&hide=java,html,css,mako,hurl,batchfile&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" /></a></td>
+    <td><a href="https://github.com/harshpahurkar"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshpahurkar&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true" alt="GitHub stats" /></a></td>
+    <td><a href="https://github.com/harshpahurkar"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshpahurkar&layout=compact&hide=java,html,css,mako,hurl,batchfile&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" /></a></td>
   </tr>
 </table>
 
@@ -46,8 +46,8 @@
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/harshpahurkar/global-billing-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpahurkar&repo=global-billing-service&theme=tokyonight&hide_border=true&show_owner=false" alt="global-billing-service" /></a></td>
-    <td><a href="https://github.com/harshpahurkar/fragments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpahurkar&repo=fragments&theme=tokyonight&hide_border=true&show_owner=false" alt="fragments" /></a></td>
+    <td><a href="https://github.com/harshpahurkar/global-billing-service"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=harshpahurkar&repo=global-billing-service&theme=tokyonight&hide_border=true&show_owner=false" alt="global-billing-service" /></a></td>
+    <td><a href="https://github.com/harshpahurkar/fragments"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=harshpahurkar&repo=fragments&theme=tokyonight&hide_border=true&show_owner=false" alt="fragments" /></a></td>
   </tr>
 </table>
 
@@ -55,12 +55,12 @@
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/harshpahurkar/agent-trace-gate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpahurkar&repo=agent-trace-gate&theme=tokyonight&hide_border=true&show_owner=false" alt="agent-trace-gate" /></a></td>
-    <td><a href="https://github.com/harshpahurkar/rag-evaluation-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpahurkar&repo=rag-evaluation-platform&theme=tokyonight&hide_border=true&show_owner=false" alt="rag-evaluation-platform" /></a></td>
+    <td><a href="https://github.com/harshpahurkar/agent-trace-gate"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=harshpahurkar&repo=agent-trace-gate&theme=tokyonight&hide_border=true&show_owner=false" alt="agent-trace-gate" /></a></td>
+    <td><a href="https://github.com/harshpahurkar/rag-evaluation-platform"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=harshpahurkar&repo=rag-evaluation-platform&theme=tokyonight&hide_border=true&show_owner=false" alt="rag-evaluation-platform" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/harshpahurkar/multi-agent-research-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpahurkar&repo=multi-agent-research-system&theme=tokyonight&hide_border=true&show_owner=false" alt="multi-agent-research-system" /></a></td>
-    <td><a href="https://github.com/harshpahurkar/mcp-task-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpahurkar&repo=mcp-task-server&theme=tokyonight&hide_border=true&show_owner=false" alt="mcp-task-server" /></a></td>
+    <td><a href="https://github.com/harshpahurkar/multi-agent-research-system"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=harshpahurkar&repo=multi-agent-research-system&theme=tokyonight&hide_border=true&show_owner=false" alt="multi-agent-research-system" /></a></td>
+    <td><a href="https://github.com/harshpahurkar/mcp-task-server"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=harshpahurkar&repo=mcp-task-server&theme=tokyonight&hide_border=true&show_owner=false" alt="mcp-task-server" /></a></td>
   </tr>
 </table>
 
@@ -68,8 +68,8 @@
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/harshpahurkar/outage-watcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpahurkar&repo=outage-watcher&theme=tokyonight&hide_border=true&show_owner=false" alt="outage-watcher" /></a></td>
-    <td><a href="https://github.com/harshpahurkar/redis-search-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpahurkar&repo=redis-search-engine&theme=tokyonight&hide_border=true&show_owner=false" alt="redis-search-engine" /></a></td>
+    <td><a href="https://github.com/harshpahurkar/outage-watcher"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=harshpahurkar&repo=outage-watcher&theme=tokyonight&hide_border=true&show_owner=false" alt="outage-watcher" /></a></td>
+    <td><a href="https://github.com/harshpahurkar/redis-search-engine"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=harshpahurkar&repo=redis-search-engine&theme=tokyonight&hide_border=true&show_owner=false" alt="redis-search-engine" /></a></td>
   </tr>
 </table>
 
